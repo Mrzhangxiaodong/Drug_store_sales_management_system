@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/interceptors/LoginInterceptor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mapper/RxdrugMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mapper/RxpersonMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mapper/StoreMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/service/StoreService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/utils/Boolean_tiaoxingma.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/utils/StringPro.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
